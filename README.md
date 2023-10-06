@@ -1,7 +1,5 @@
 # Spam-Message-detection-using-Naive-Based-Algorithm
 
-![image](https://github.com/sumidhakp123/Spam-Message-detection-using-Naive-Based-Algorithm/assets/69155879/9050234f-c9b8-4165-bdaa-8a47a654bace)
-
 
 # Project Title
 
